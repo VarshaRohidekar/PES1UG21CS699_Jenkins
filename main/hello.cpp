@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Checking Automatic Build\n";
+  cout << "Checking automatic job execution\n";
   return 0;
 }
